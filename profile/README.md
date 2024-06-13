@@ -1,4 +1,4 @@
-<h1 align="center">HarvardFTG</h1>
+<h1 align="center">FTG</h1>
 
 <p align="center">
 In order to respect the privacy and confidentiality of our members and guest speakers, all 
